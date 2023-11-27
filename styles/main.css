@@ -216,6 +216,7 @@ body {
 
 .title-h1 span {
     font-style: italic;
+    font-weight: 100;
 }
 
 .main-wrap {
@@ -295,6 +296,7 @@ body {
     /* font-family: 'Cormorant Garamond Italic', sans-serif; */
     /* font-family: 'Cormorant Garamond Italic'; */
     font-style: italic;
+    letter-spacing: -0.04em;
 }
 
 .text-block_2 {
