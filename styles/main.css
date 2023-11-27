@@ -235,7 +235,7 @@ body {
 
 .main-photo {
     /* max-width: 490px; */
-    width: 100%;
+    /* width: 100%; */
     object-fit: cover;
 }
 
