@@ -3,17 +3,14 @@
     font-family: 'Futura';
     font-weight: 100;
     font-style: normal;
-    /* src: url(../fonts/Futura/futura_book.woff2); */
-    src: url(../fonts/Futura/FuturaNowHeadlineLight.ttf);
+    src: url(../fonts/Futura/futura_book.woff2);
 }
 
 @font-face {
     font-family: 'Futura Italic';
     font-style: italic;
     font-weight: 100;
-    /* src: url(../fonts/Futura/futura_book-oblique.woff2); */
-    /* src: url(../fonts/Futura/Futura-Normal-Italic.ttf); */
-    src: url(../fonts/Futura/FuturaNowHeadlineLightItalic.ttf);
+    src: url(../fonts/Futura/futura_book-oblique.woff2);
 }
 
 @font-face {
