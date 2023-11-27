@@ -1,9 +1,10 @@
 /*--------------------------------Шрифты--------------------------------*/
 @font-face {
     font-family: 'Futura';
-    font-weight: 400;
+    font-weight: 100;
     font-style: normal;
-    src: url(../fonts/Futura/futura_book.woff2);
+    /* src: url(../fonts/Futura/futura_book.woff2); */
+    src: url(../fonts/Futura/FuturaNowHeadlineLight.ttf);
 }
 
 @font-face {
