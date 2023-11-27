@@ -20,12 +20,12 @@
     src: url(../fonts/CormorantGaramond-Regular.ttf);
 }
 
-@font-face {
+/* @font-face {
     font-family: 'Cormorant Garamond Italic';
     font-weight: 400;
     font-style: italic;
     src: url(../fonts/CormorantGaramond-Italic.ttf);
-}
+} */
 
 *,
 div,
@@ -293,7 +293,8 @@ body {
 
 .text_italic {
     /* font-family: 'Cormorant Garamond Italic', sans-serif; */
-    font-family: 'Cormorant Garamond Italic';
+    /* font-family: 'Cormorant Garamond Italic'; */
+    font-style: italic;
 }
 
 .text-block_2 {
