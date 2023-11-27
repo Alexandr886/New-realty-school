@@ -13,7 +13,21 @@
     src: url(../fonts/Futura/futura_book-oblique.woff2);
 } */
 
-@import url('https://fonts.cdnfonts.com/css/futura-pt');
+@font-face {
+    font-family: 'Futura PT';
+    font-weight: 100;
+    font-style: normal;
+    src: url(../fonts/Futura_PT/FuturaCyrillicLight.ttf);
+}
+
+/* @font-face {
+    font-family: 'Futura Italic';
+    font-style: italic;
+    font-weight: 100;
+    src: url(../fonts/Futura/futura_book-oblique.woff2);
+} */
+
+/* @import url('https://fonts.cdnfonts.com/css/futura-pt'); */
 
 @font-face {
     font-family: 'Didot Title';
@@ -181,7 +195,7 @@ body {
 }
 
 .btn-black {
-    font-family: 'Futura', sans-serif;
+    font-family: 'Futura PT', sans-serif;
     outline: none;
     color: #FFF;
     text-transform: uppercase;
